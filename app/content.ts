@@ -29,13 +29,13 @@ export const services = {
       number: "01",
       title: "Social Media Management",
       description:
-        "Content calendars, community management, and consistent posting that keeps your brand top of mind — across Facebook, Instagram, and TikTok.",
+        "Content calendars, community management, and consistent posting that keeps your brand top of mind across Facebook, Instagram, and TikTok.",
     },
     {
       number: "02",
       title: "Paid Advertising",
       description:
-        "Facebook, Instagram, and Google ad campaigns engineered for return — audience research, creative testing, and weekly optimization.",
+        "Facebook, Instagram, and Google ad campaigns engineered for returning audience research, creative testing, and weekly optimization.",
     },
     {
       number: "03",
