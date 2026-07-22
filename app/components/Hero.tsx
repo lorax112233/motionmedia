@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Aperture from "./Aperture";
 import { hero } from "../content";
 
 export default function Hero() {
@@ -37,8 +36,8 @@ export default function Hero() {
       </div>
 
       <div className="relative mx-auto max-w-6xl text-center">
-        <p className="animate-fade-up inline-flex items-center gap-3 rounded-full border border-line bg-surface/60 px-4 py-2 text-xs font-semibold uppercase tracking-[0.3em] text-accent">
-          <Aperture className="h-4 w-4" />
+        <p className="animate-fade-up inline-flex items-center gap-2 rounded-full border border-line bg-surface/60 px-4 py-2 text-xs font-semibold uppercase tracking-[0.3em] text-accent">
+          <span className="h-1.5 w-1.5 rounded-full bg-accent" />
           {hero.eyebrow}
         </p>
         <h1
