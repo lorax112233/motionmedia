@@ -16,7 +16,7 @@ export const hero = {
   headlineAccent: "motion",
   headlineAfter: ".",
   subhead:
-    "Scroll-stopping content, precision paid ads, and social strategies built on data — not guesswork.",
+    "Scroll-stopping content, precision paid ads, and social strategies built on data not guesswork.",
   primaryCta: { label: "Work with us", href: "/contact" },
   secondaryCta: { label: "See our work", href: "#work" },
 };
