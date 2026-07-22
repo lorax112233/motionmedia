@@ -16,7 +16,7 @@ export const hero = {
   headlineAccent: "motion",
   headlineAfter: ".",
   subhead:
-    "Scroll-stopping content, precision paid ads, and social strategies built on data not guesswork.",
+    "Scroll stopping content, precision paid ads, and social strategies built on data not guesswork.",
   primaryCta: { label: "Work with us", href: "/contact" },
   secondaryCta: { label: "See our work", href: "#work" },
 };
@@ -41,7 +41,7 @@ export const services = {
       number: "03",
       title: "Video & Content Production",
       description:
-        "Reels, short-form video, and motion graphics that stop the scroll. Shot, edited, and delivered ready to post.",
+        "Reels, short form video, and motion graphics that stop the scroll. Shot, edited, and delivered ready to post.",
     },
     {
       number: "04",
@@ -76,7 +76,7 @@ export const work: { tag: string; heading: string; items: WorkItem[] } = {
     {
       title: "Coffee Shop Reel",
       category: "Video Production",
-      result: "Short-form promo video", // ← replace with a real result metric
+      result: "Short form promo video", // replace with a real result metric
       video: "/721.mp4",
     },
     {
@@ -137,7 +137,7 @@ export const about = {
   tag: "Our team",
   heading: "A small team obsessed with your growth.",
   paragraphs: [
-    "Motion Media Marketing is a digital marketing agency based in Butuan City. We partner with businesses that are serious about growing — combining creative content, sharp strategy, and data from every campaign to make each move count.",
+    "Motion Media Marketing is a digital marketing agency based in Butuan City. We partner with businesses that are serious about growing and combining creative content, sharp strategy, and data from every campaign to make each move count.",
     "No bloated retainers. No vanity metrics. Just work that moves the numbers you care about.",
   ],
   image: "/aboutus-fit.jpg",
@@ -153,7 +153,7 @@ export const contact = {
       label: "Facebook",
       value: "Message us on Facebook",
       href: "https://www.facebook.com/profile.php?id=61586711511997",
-      note: "Fastest way to reach us — usually replies same day.",
+      note: "Fastest way to reach us, usually replies same day.",
       external: true,
     },
     {

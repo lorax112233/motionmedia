@@ -15,7 +15,7 @@ const body = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Motion Media Marketing — Digital Marketing Agency in Butuan City",
+  title: "Motion Media Marketing: Digital Marketing Agency in Butuan City",
   description:
     "Motion Media Marketing helps brands grow with social media management, paid ads, video production, and branding that moves people.",
   openGraph: {

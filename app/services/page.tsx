@@ -5,7 +5,7 @@ import CTA from "../components/CTA";
 import ScrollZoom from "../components/ScrollZoom";
 
 export const metadata: Metadata = {
-  title: "Services — Motion Media Marketing",
+  title: "Services: Motion Media Marketing",
   description:
     "Social media management, paid advertising, video production, and branding built to grow your business.",
 };
@@ -16,7 +16,7 @@ export default function ServicesPage() {
       <PageHeader
         tag="Services"
         title="Everything your brand needs to move."
-        subtitle="From daily social to full-scale campaigns — one team handling the content, the ads, and the design that make people stop and pay attention."
+        subtitle="From daily social to full scale campaigns, one team handling the content, the ads, and the design that make people stop and pay attention."
       />
       <ScrollZoom>
         <Services showHeader={false} />

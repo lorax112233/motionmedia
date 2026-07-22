@@ -5,7 +5,7 @@ import ScrollZoom from "../components/ScrollZoom";
 import { contact } from "../content";
 
 export const metadata: Metadata = {
-  title: "Contact — Motion Media Marketing",
+  title: "Contact: Motion Media Marketing",
   description:
     "Get in touch with Motion Media Marketing. Message us on Facebook or send an email and we'll reply within 24 hours.",
 };

@@ -16,7 +16,7 @@ export default function Navbar() {
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-line/60 bg-background/80 backdrop-blur-md">
       <nav className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
-        <Link href="/" className="flex items-center" aria-label="Motion Media Marketing — home">
+        <Link href="/" className="flex items-center" aria-label="Motion Media Marketing home">
           <Logo className="h-9 w-auto" />
         </Link>
 
